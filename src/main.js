@@ -6,7 +6,7 @@ import { fetchImages } from './js/pixabay-api';
 import { createMurkUp } from './js/render-functions';
 import { loader } from './js/loader';
 const refs = {
-  formEl: document.querySelector('.search-form'),
+  formEl: document.querySelector('.form'),
   galeryEl: document.querySelector('.gallery'),
 };
 

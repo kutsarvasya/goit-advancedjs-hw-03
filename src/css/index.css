@@ -7,7 +7,7 @@ body {
   place-items: center;
   padding: 24px;
 }
-.search-form {
+.form {
   display: flex;
   gap: 8px;
   align-items: center;
